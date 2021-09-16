@@ -30,7 +30,15 @@
 
   > **logo após vai ser criado o package.json**
 
-  3. Adicionado o Slick-carousel
+  3. Adicionando o Jquery via NPM
+  [jQuery](https://jquery.com/download/)
+  ```js
+  npm install jquery
+  ```
+
+  > **logo após vai ser criado o node_modules**
+
+  4. Adicionado o Slick-carousel via NPM
   [Slick carousel](https://kenwheeler.github.io/slick/)
   [Slick carousel - github](https://github.com/kenwheeler/slick/)
   ```js
@@ -38,12 +46,10 @@
   ```
   <img width="700px" height="auto" src="assets/dist/img/slick-carousel.png" />
 
-  > **logo após vai ser criado o node_modules**
-
   ### Caso o node modules e o package-lock não estajam no projeto:
   - **Rodar: `npm install`**
 
-  4. instalar o [gulp](https://gulpjs.com/docs/en/getting-started/quick-start/) no projeto
+  5. instalar o [gulp](https://gulpjs.com/docs/en/getting-started/quick-start/) no projeto
   `npm install --save-dev gulp`
   #### checar versão depois de instalado --> `gulp --version`
   - Exemplo:
@@ -52,19 +58,19 @@
     Local version: 4.0.2
     ```
 
-  5. instalar o [gulp-sass](https://www.npmjs.com/package/gulp-sass)
+  6. instalar o [gulp-sass](https://www.npmjs.com/package/gulp-sass)
   `npm install sass gulp-sass --save-dev`
 
-  6. instalar o [node-sass](https://www.npmjs.com/package/node-sass)
+  7. instalar o [node-sass](https://www.npmjs.com/package/node-sass)
   `npm install node-sass`
 
-  7. instalar o [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+  8. instalar o [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
   `npm install gulp-sourcemaps`
   
-  8. instalar o [gulp-rename](https://www.npmjs.com/package/gulp-rename)
+  9. instalar o [gulp-rename](https://www.npmjs.com/package/gulp-rename)
   `npm install gulp-rename`
 
-  9. instalar o [gulp-minify](https://www.npmjs.com/package/gulp-minify)
+  10. instalar o [gulp-minify](https://www.npmjs.com/package/gulp-minify)
   `npm install --save-dev gulp-minify`
 
   ## **Para rodar o projeto: `gulp watch`**

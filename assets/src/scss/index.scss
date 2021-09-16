@@ -14,3 +14,12 @@ body {
   }
 }
 
+.main-carousel {
+  width: 550px;
+  margin-left: 50px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #141313!important;
+}
