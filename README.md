@@ -20,7 +20,7 @@
   - Download do sass: [Sass](https://sass-lang.com/install)
   `npm install -g sass`
 
-### Para usar, rodar os comandos dentro da pasta do projeto (sass-scss):
+### Para usar, rodar os comandos dentro da pasta do projeto:
   1. instalar globalmente o [gulp cli](https://gulpjs.com/docs/en/getting-started/quick-start/) 
   `npm install --global gulp-cli`
 
