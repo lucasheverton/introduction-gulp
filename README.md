@@ -1,7 +1,5 @@
 # Usando o gulp e o slick-carousel. 
 
-<hr />
-
 ## Configurando o Ambiente:
   - Download do node: [Node](https://nodejs.org/en/download/)
   #### checar versão depois de instalado --> `node --version`
@@ -21,8 +19,6 @@
 
   - Download do sass: [Sass](https://sass-lang.com/install)
   `npm install -g sass`
-
-<hr />
 
 ### Para usar, rodar os comandos dentro da pasta do projeto (sass-scss):
   1. instalar globalmente o [gulp cli](https://gulpjs.com/docs/en/getting-started/quick-start/) 
