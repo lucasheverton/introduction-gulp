@@ -25,20 +25,18 @@
   `npm install --global gulp-cli`
 
   2. [para começar:](https://gulpjs.com/docs/en/getting-started/quick-start/) `npm init` <!-- Para criar o Package.json -->
-  ```js 
   <img width="500px" height="500px" src="assets/dist/img/npm-init.png" />
-  ```
+
   > **logo após vai ser criado o package.json**
 
   3. Adicionado o Slick-carousel
   [Slick carousel](https://kenwheeler.github.io/slick/)
   [Slick carousel - github](https://github.com/kenwheeler/slick/)
   ```js
-  `npm install slick-carousel`
+  npm install slick-carousel
   ```
-  ```js
   <img width="700px" height="auto" src="assets/dist/img/slick-carousel.png" />
-  ```
+
 
   ### Caso o node modules e o package-lock não estajam no projeto:
   - **Rodar: `npm install`**
