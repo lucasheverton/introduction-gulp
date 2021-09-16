@@ -1,0 +1,7 @@
+node_modules/
+<!-- Mudar quando fazer deploy ↓ -->
+assets/dist/css/*
+assets/dist/js/*
+<!-- Mudar quando fazer deploy ↑ -->
+package-lock.json
+./vscode
