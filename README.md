@@ -25,7 +25,7 @@
   `npm install --global gulp-cli`
 
   2. [para começar:](https://gulpjs.com/docs/en/getting-started/quick-start/) `npm init` <!-- Para criar o Package.json -->
-  <img width="500px" height="500px" src="assets/dist/img/npm-init.png" />
+  <img width="400px" height="500px" src="assets/dist/img/npm-init.png" />
 
   > **logo após vai ser criado o package.json**
 
