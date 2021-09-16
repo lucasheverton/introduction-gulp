@@ -24,7 +24,8 @@
   1. instalar globalmente o [gulp cli](https://gulpjs.com/docs/en/getting-started/quick-start/) 
   `npm install --global gulp-cli`
 
-  2. [para começar:](https://gulpjs.com/docs/en/getting-started/quick-start/) `npm init` <!-- Para criar o Package.json -->
+  <!-- Para criar o Package.json -->
+  2. [para começar:](https://gulpjs.com/docs/en/getting-started/quick-start/) `npm init`
   <img width="400px" height="500px" src="assets/dist/img/npm-init.png" />
 
   > **logo após vai ser criado o package.json**
@@ -37,6 +38,7 @@
   ```
   <img width="700px" height="auto" src="assets/dist/img/slick-carousel.png" />
 
+  > **logo após vai ser criado o node_modules**
 
   ### Caso o node modules e o package-lock não estajam no projeto:
   - **Rodar: `npm install`**
