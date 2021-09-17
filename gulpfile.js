@@ -31,11 +31,10 @@ gulp.task("sass", gulp.series(function(){
     .pipe(gulp.dest(paths.css.dist));
 }))
 
-//objeto para minificação do JS
+//função que minifica o JS
 gulp.task("scripts", gulp.series(function(){
   return gulp.src(paths.js.src)
-  .pipe(sourcemaps.init())
-  .pipe(sourcemaps.write("."))
+  .pipe(minify())
   .pipe(gulp.dest(paths.js.dist));
 }));
 

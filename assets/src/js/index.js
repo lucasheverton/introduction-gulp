@@ -1,4 +1,4 @@
-
+// Slick-carousel banner para imagens
 $(document).ready(function(){
   $('.carousel').slick({
     autoplay: true,
