@@ -38,9 +38,8 @@
 
   > **logo após vai ser criado o node_modules**
 
-  4. Adicionado o Slick-carousel via NPM
-  [Slick carousel](https://kenwheeler.github.io/slick/)
-  [Slick carousel - github](https://github.com/kenwheeler/slick/)
+  4. Adicionado o [Slick-carousel](https://kenwheeler.github.io/slick/) via NPM
+  <!--[Slick carousel - github](https://github.com/kenwheeler/slick/)-->
   ```js
   npm install slick-carousel
   ```
