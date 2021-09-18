@@ -58,19 +58,23 @@
     Local version: 4.0.2
     ```
 
-  6. instalar o [gulp-sass](https://www.npmjs.com/package/gulp-sass)
-  `npm install sass gulp-sass --save-dev`
-
-  7. instalar o [node-sass](https://www.npmjs.com/package/node-sass)
-  `npm install node-sass`
-
-  8. instalar o [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
-  `npm install gulp-sourcemaps`
+  6. instalar o [fs](https://www.npmjs.com/package/fs)
+  `npm install fs`
   
-  9. instalar o [gulp-rename](https://www.npmjs.com/package/gulp-rename)
+  7. instalar o [gulp-htmlmin](https://www.npmjs.com/package/gulp-htmlmin)
+  `npm install --save gulp-htmlmin`
+  
+  8. instalar o [gulp-rename](https://www.npmjs.com/package/gulp-rename)
   `npm install gulp-rename`
-
+  
+  9. instalar o [live-server](https://www.npmjs.com/package/live-server)
+  `npm install live-server`
+  
   10. instalar o [gulp-minify](https://www.npmjs.com/package/gulp-minify)
   `npm install --save-dev gulp-minify`
+  
+  11. instalar o [gulp-sass](https://www.npmjs.com/package/gulp-sass)
+  `npm install sass gulp-sass --save-dev`
+ 
 
   ## **Para rodar o projeto: `gulp watch`**
