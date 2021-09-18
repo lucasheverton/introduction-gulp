@@ -2,6 +2,7 @@ node_modules/
 <!-- Mudar quando fazer deploy ↓ -->
 assets/dist/css/*
 assets/dist/js/*
+assets/dist/*.html
 <!-- Mudar quando fazer deploy ↑ -->
 package-lock.json
 .vscode/
