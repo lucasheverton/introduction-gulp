@@ -14,8 +14,9 @@ const paths = {
     dist: "assets/dist/css" // onde é renderizado
   },
   html: {
-    src: "index.html", //onde escrevemos
-    dist: "assets/dist" // onde é renderizado
+    src: "assets/src/index.html", //onde escrevemos
+    dist: "assets/dist", // onde é renderizado
+    deploy: "assets/dist/index.min.html"
   },
   js: {
     src: "assets/src/js/*.js", //onde escrevemos
@@ -63,7 +64,7 @@ gulp.task('watch', gulp.series(function(){
 var params = {
   port: 3000,
   open: true,
-  file: paths.html.src,
+  file: paths.html.deploy,
   wait: 1000,
   logLevel: 2
 };
